@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "38631d3688d46007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理学基础.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "618b55a90a9f0d34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理学基础.md",
+                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/由系综到热力学.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +92,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/系综理论.md",
+                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/由系综到热力学.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/系综理论.md",
+                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/由系综到热力学.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/系综理论.md"
+                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/由系综到热力学.md"
               }
             }
           },
@@ -203,23 +188,25 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "9019bb62d871df17",
+  "active": "618b55a90a9f0d34",
   "lastOpenFiles": [
-    "物理学/本科课程/热力学与统计物理/热力学与统计物理.md",
+    "知识碎片/待分类.md",
+    "日记/2023-10-23.md",
+    "知识碎片/高斯.md",
     "物理学/本科课程/热力学与统计物理/课堂笔记/系综理论.md",
-    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理学基础.md",
-    "Obsidian_oliverira",
-    "帮助",
     "物理学/本科课程/热力学与统计物理/课堂笔记/由系综到热力学.md",
     "物理学/本科课程/热力学与统计物理/课堂笔记/由动力学到统计物理.md",
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理学基础.md",
+    "物理学/本科课程/热力学与统计物理/热力学与统计物理.md",
+    "Obsidian_oliverira",
+    "帮助",
     "模板库/latex_temp.md",
     "物理学/本科课程/热力学与统计物理/课堂笔记/未命名 2.md",
     "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理学基础 1.md",
-    "知识碎片/高斯.md",
-    "知识碎片/待分类.md",
     "未命名",
     "知识碎片",
     "Pasted image 20231023180428.png",
@@ -240,7 +227,6 @@
     "物理学/本科课程/热力学与统计物理/热力学和统计物理笔记_lxj.pdf",
     "物理学/本科课程/热力学与统计物理/热统笔记整理.pdf",
     "物理学/本科课程/热力学与统计物理/未命名",
-    "日记/2023-10-23.md",
     "帮助/obsidian-help-master/zh/使用指南/基本笔记记录.md",
     "物理学/本科课程/热力学与统计物理",
     "物理学/本科课程",
