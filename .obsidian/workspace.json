@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学现象.md",
+                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理基础/由系综到热力学.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,11 +21,16 @@
             }
           },
           {
-            "id": "9019bb62d871df17",
+            "id": "63fa8f61a11e92d1",
             "type": "leaf",
             "state": {
-              "type": "periodic-para",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学/玻色——爱因斯坦统计.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
@@ -34,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学现象.md",
+                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学/费米——狄拉克分布.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -121,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学现象.md",
+                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学/费米——狄拉克分布.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学现象.md",
+                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学/费米——狄拉克分布.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学现象.md"
+                "file": "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学/费米——狄拉克分布.md"
               }
             }
           },
@@ -182,18 +187,20 @@
             }
           },
           {
-            "id": "111074b7a38fc2cc",
+            "id": "7238320ea8fa66b2",
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 258.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,20 +212,23 @@
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "random-note:开始漫游笔记": false,
-      "periodic-para:Periodic PARA": false
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "c41fe761d2ffc13f",
+  "active": "00a8fcead8aa6436",
   "lastOpenFiles": [
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学/玻色——爱因斯坦统计.md",
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学/费米——狄拉克分布.md",
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学/麦克斯韦——玻尔兹曼统计.md",
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理基础/由系综到热力学.md",
     "知识碎片/快捷设置.md",
-    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学现象.md",
-    "物理学/本科课程/热力学与统计物理/课堂笔记/系综理论.md",
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理基础/玻色-爱因斯坦分布.md",
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理基础/统计物理的概率描述.md",
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理的动理学",
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理基础",
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理基础/系综理论.md",
     "物理学/本科课程/热力学与统计物理/热力学与统计物理.md",
-    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理学基础.md",
-    "物理学/本科课程/热力学与统计物理/课堂笔记/由系综到热力学.md",
-    "物理学/本科课程/热力学与统计物理/课堂笔记/由动力学到统计物理.md",
-    "物理学/本科课程/热力学与统计物理/课堂笔记/玻色-爱因斯坦分布.md",
+    "物理学/本科课程/热力学与统计物理/课堂笔记/统计物理基础/由动力学到统计物理.md",
     "物理学/机器学习/sklearn/pipeline.md",
     "物理学/机器学习/sklearn/svm.SVR().md",
     "物理学/机器学习/sklearn/核函数.md",
@@ -243,12 +253,8 @@
     "知识碎片",
     "Pasted image 20231023180428.png",
     "帮助/obsidian-help-master/zh/使用指南/标签的使用.md",
-    "连续状态空间.md",
-    "帮助/obsidian-help-master/zh/插件/大纲.md",
     "物理学/本科课程/热力学与统计物理/课堂笔记",
     "物理学/本科课程/热力学与统计物理/热力学和统计物理笔记_lxj.pdf",
-    "物理学/本科课程/热力学与统计物理/热统笔记整理.pdf",
-    "物理学/本科课程/热力学与统计物理/未命名",
     "帮助/obsidian-help-master/zh/附件/Pasted image 6.png",
     "帮助/obsidian-help-master/zh/附件/反向链接.png",
     "帮助/obsidian-help-master/zh/附件/管理工作区布局.png",
