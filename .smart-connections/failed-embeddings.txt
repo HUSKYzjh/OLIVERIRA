@@ -2,6 +2,7 @@
 LiteratureNotes/Temperature, Dynamics, and Enzyme-Catalyzed Reaction Rates.md
 LiteratureNotes/Temperature, Dynamics, and Enzyme-Catalyzed Reaction Rates.md#
 LiteratureNotes/Temperature, Dynamics, and Enzyme-Catalyzed Reaction Rates.md##基于酶催化温度依赖性的进化论#线性 Arrhenius 图
+README.md
 stirling 公式.md
 平衡态分布.md
 未命名.md
@@ -47,6 +48,9 @@ stirling 公式.md
 物理学/本科课程/热力学与统计物理/热力学与统计物理.md#统计物理基础
 物理学/本科课程/热力学与统计物理/热力学与统计物理.md#统计物理的动理学
 物理学/本科课程/热力学与统计物理/热力学与统计物理.md#补充
+物理学/本科课程/热力学与统计物理/课堂笔记/热力学/热力学基本规律.md
+物理学/本科课程/热力学与统计物理/课堂笔记/热力学/热力学基本规律.md#物态方程
+物理学/本科课程/热力学与统计物理/课堂笔记/热力学/热力学基本规律.md#第零定律
 物理学/本科课程/热力学与统计物理/课堂笔记/热力学/统计物理表述热力学量.md
 物理学/本科课程/热力学与统计物理/课堂笔记/统计物理基础/由动力学到统计物理.md
 物理学/本科课程/热力学与统计物理/课堂笔记/统计物理基础/由动力学到统计物理.md#刘维尔方程

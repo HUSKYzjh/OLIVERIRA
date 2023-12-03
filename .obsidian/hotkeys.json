@@ -6,5 +6,13 @@
       ],
       "key": "/"
     }
+  ],
+  "chatgpt-md:clear-chat": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "."
+    }
   ]
 }
